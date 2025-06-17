@@ -2,14 +2,14 @@
 
 Um conversor de moedas com interface gráfica simples, que utiliza uma API em tempo real para buscar as taxas de câmbio.
 
-## ⚙️ Tecnologias
+## Tecnologias
 
 - Python 3
 - Tkinter
 - requests
 - AwesomeAPI (https://docs.awesomeapi.com.br)
 
-## 🚀 Como usar
+## Como usar
 
 1. Clone o projeto:
 ```bash
@@ -27,7 +27,7 @@ pip install requests
 python conversor.py
 ```
 
-## 🧠 O que este projeto faz?
+##  O que este projeto faz?
 
 - Permite escolher a moeda de origem e destino
 - Faz a conversão usando dados da AwesomeAPI
@@ -36,7 +36,7 @@ python conversor.py
 
 
 
-## 📤 Portfólio
+## Portfólio
 
 Este projeto faz parte do meu portfólio como programador júnior.  
 Veja mais no meu LinkedIn: https://www.linkedin.com/in/thassio-ramos-6b8a41236/
